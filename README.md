@@ -1,7 +1,7 @@
 # Wild and Wonderful Sales: A Way to Hike Up Your Profit
 
 ### Our Project
-This project assesses the development of a production-ready data pipeline. Using multiple datasets, an ETL or ELT pipeline was built to process the data and produce a dashboard for visualization.
+This project uses SQL and Python to create a production-ready data pipeline. Using multiple datasets, an ETL or ELT pipeline was built to process the data and produce a dashboard for visualization.
 
 ### Objective
 The objective of our project is to use the following datasets to create a visualization for an outdoor resale chain to consolidate monthly sales trend and layer it to economic indicators.
