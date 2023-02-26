@@ -42,6 +42,23 @@ Gross Domestic Product.  This data was collected from The World Bank Group and c
 Consumer Confidence Index: This data is collected from The Organisation for Economic Co-operation and Development (OECD). The CCI will be viewed over the 2015 and 2016 years to correspond with the other economic indicators as well as the go sales data that we are basing the pipeline on. The information included in the CCI will indicate whether consumers are spending or if they are saving and how those indicators correspond with go sales data. By understanding their relevance exciting information can be understood on buying habits of consumers and their overall impact on sales. 
 
 ## Required Python Packages
+* import pandas as pd
+* from pandas.io import sql
+* from sqlalchemy import create_engine
+* from sqlalchemy.pool import Pool
+* import mysql.connector
+* import json
+* import csv
+* import os
+
+* import numpy as np
+* import pymysql as mysql
+* import matplotlib.pyplot as plt
+* import requests
+* import getpass
+* import seaborn as sns
+* from pptx import Presentation 
+* from pptx.util import Inches 
 
 
 ## Getting Started
