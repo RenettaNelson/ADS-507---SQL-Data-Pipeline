@@ -65,7 +65,7 @@ Consumer Confidence Index: This data is collected from The Organisation for Econ
 ## Getting Started
 
 ## Featured Notebooks/Analysis/Deliverables
-* [Presentation slides ]()
+* [Presentation slides ](https://docs.google.com/presentation/d/1yqAHFY4O4jF9iG8J3dKcHRYTRHIPlyIzV0p5uKePlQY/edit?usp=sharing)
 
 1. Clone this repo using raw data.
 2. add code and push new code into repo. To ensure cohesive code make sure to run all cells prior to upload. 
