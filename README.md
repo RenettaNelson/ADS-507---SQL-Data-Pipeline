@@ -92,4 +92,5 @@ Consumer Confidence Index: This data is collected from The Organisation for Econ
 ## Visualizations are sent to Powerpoint slides. 
 - A function is used to send all meaningful visualizations to a powerpoint slide. 
 - Visuals can there be shared with various stakeholders, external or internal consumers to make determinations on profitability. 
+- Monthly metric ppt may be viewed from local folder where user clones the repository. 
 
