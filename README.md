@@ -40,7 +40,7 @@ Monthly consumer price index (CPI) change.  This data was collected from the Bur
 Monthly unemployment rate.  This data was also collected from the BLS website, and includes monthly unemployment as a percentage of the overall workforce for the years 2012-2022.  We intend to use this data to compare to the sales performance metrics.
 Gross Domestic Product.  This data was collected from The World Bank Group and contains the GDP values of various countries for the past 61 years. We will only be utilizing the years that are consistent with the GOSales data. The GDP for the applicable countries will be broken into quarters and displayed for 2015 and 2016. We will join this with the GOSales data, which will display each respective countries quarterly profits. By examining these two visuals, we will identify any trends between sales and GDP. 
 
-Consumer Confidence Index: This data is collected from The Organisation for Economic Co-operation and Development (OECD). The CCI will be viewed over the 2015 and 2016 years to correspond with the other economic indicators as well as the go sales data that we are basing the pipeline on. The information included in the CCI will indicate whether consumers are spending or if they are saving and how those indicators correspond with go sales data. By understanding their relevance exciting information can be understood on buying habits of consumers and their overall impact on sales. 
+Consumer Confidence Index: This data is collected from The Organisation for Economic Co-operation and Development (OECD). The CCI will be viewed over the 2015 and 2016 years to correspond with the other economic indicators as well as the go sales data that we are basing the pipeline on. The information included in the CCI will indicate whether consumers are spending or if they are saving and how those indicators correspond with go sales data. By understanding their relevance exciting information can be understood on buying habits of consumers and their overall impact on sales. Any value of 100 or more will indicate strong consumer confidence. 
 
 ## Required Python Packages
 * import pandas as pd
@@ -91,8 +91,5 @@ Consumer Confidence Index: This data is collected from The Organisation for Econ
 
 ## Visualizations are sent to Powerpoint slides. 
 - A function is used to send all meaningful visualizations to a powerpoint slide. 
-
-## How to deploy the pipeline
-
-## How to Monitor
+- Visuals can there be shared with various stakeholders, external or internal consumers to make determinations on profitability. 
 
